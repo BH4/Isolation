@@ -1,1 +1,0 @@
-Ai created for the game Isolation.
